@@ -1,0 +1,61 @@
+[
+  { "id": 1, "fname": "anan", "lname": "mohsen", "city": "BNS", "age": 22 },
+  { "id": 2, "fname": "romysaa", "lname": "mohsen", "city": "BNS", "age": 19 },
+  {
+    "id": 3,
+    "fname": "islam",
+    "lname": "mohamed",
+    "city": "mansora",
+    "age": 25
+  },
+  { "id": 4, "fname": "mena", "lname": "mohammed", "city": "BNS", "age": 23 },
+  { "id": 11, "fname": "Mohammed", "lname": "Esmat", "city": "BNS", "age": 59 },
+  { "id": 12, "fname": "Mona", "lname": "Esmat", "city": "Beba", "age": 57 },
+  {
+    "id": 13,
+    "fname": "Mayar",
+    "lname": "mohammed",
+    "city": "Beba",
+    "age": 23
+  },
+  { "id": 14, "fname": "osama", "lname": "hefny", "city": "cairo", "age": 28 },
+  {
+    "id": 15,
+    "fname": "hessuin",
+    "lname": "mohammed",
+    "city": "fayoum",
+    "age": 28
+  },
+  { "id": 16, "fname": "Mostafa", "lname": "kamel", "city": "BNS", "age": 27 },
+  { "id": 18, "fname": "hasnaa", "lname": "esam", "city": "BNS", "age": 22 },
+  {
+    "id": 19,
+    "fname": "Mohammed",
+    "lname": "abd ellatif",
+    "city": "BNS",
+    "age": 22
+  },
+  { "id": 20, "fname": "Mariam", "lname": "ali", "city": "BNS", "age": 22 },
+  {
+    "id": 23,
+    "sub1": 100,
+    "sub2": 90,
+    "sub3": 96,
+    "sub4": 85,
+    "sub5": 98,
+    "sub6": 82,
+    "total": 551,
+    "average": 92
+  },
+  {
+    "id": 24,
+    "sub1": 60,
+    "sub2": 90,
+    "sub3": 96,
+    "sub4": 85,
+    "sub5": 98,
+    "sub6": 95,
+    "total": 524,
+    "average": 87
+  }
+]
